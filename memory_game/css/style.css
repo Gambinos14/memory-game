@@ -91,5 +91,10 @@ footer {
 	color: #F15831;
 	font-weight: 700;
 }
-
-
+button {
+	font-family: Raleway, sans-serif;
+	margin-top: 25px;
+	font-size: 16px;
+	padding: 12px 28px;
+	border-radius: 5px;
+}
